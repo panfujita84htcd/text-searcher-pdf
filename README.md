@@ -8,6 +8,6 @@ Follow instruction in this picture to search your desired text or string.
 
 This tools can search all PDF files in selected folder to find out which pdf file includes your search text.
 
-Download EXE file here to run on your Windows: [Download-Wins](https://https://github.com/panfujita84htcd/text-searcher-pdf/blob/main/text-searcher-pdf.exe)
+Download EXE file here to run on your Windows: [Download-Wins](https://github.com/panfujita84htcd/text-searcher-pdf/raw/main/text-searcher-pdf.exe)
 
-For Unix user, please run this script: [Script-Unix](https://https://github.com/panfujita84htcd/text-searcher-pdf/blob/main/text-searcher-pdf.py)
+For Unix user, please run this script: [Script-Unix](https://github.com/panfujita84htcd/text-searcher-pdf/blob/main/text-searcher-pdf.py)
